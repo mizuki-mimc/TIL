@@ -5,6 +5,6 @@ Today I Learned（今日学んだこと）。学習、読書した書籍を記�
 ---
 読んだ書籍情報です。
 
-[学習記録](https://github.com/mizuki-mimc/larning_record_2025.09)
+[学習記録](https://github.com/mizuki-mimc/larnning_record_all/blob/main/README.md)
 ---
 学習の記録です。
